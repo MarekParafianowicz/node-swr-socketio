@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 
+# webpack builds
+/dist
+
 # testing
 /coverage
 
